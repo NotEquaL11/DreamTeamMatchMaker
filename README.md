@@ -1,6 +1,6 @@
 # 🎸 Dream Team MatchMaker – BandMate Recommender System
 
-banner.png 
+![Alt Text](banner.png)
 
 ---
 
