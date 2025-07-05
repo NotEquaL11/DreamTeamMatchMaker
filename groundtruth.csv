@@ -1,0 +1,21 @@
+user_input,bandmate_text,label,query_id
+"guitar rock energetic loves soloing serious passionate","john is a serious rock guitarist passionate about energetic solos",1,0
+"guitar rock energetic loves soloing serious passionate","mike is a laid-back bassist who plays smooth jazz",0,0
+"drums jazz patient good timing friendly reliable","lisa is a friendly jazz drummer with great timing and reliability",1,1
+"drums jazz patient good timing friendly reliable","alan is an intense keyboardist who plays classical music",0,1
+"singer pop friendly loves performing charismatic creative","emma is a charismatic pop singer known for creative performances",1,2
+"singer pop friendly loves performing charismatic creative","chris is a heavy metal drummer with an intense style",0,2
+"keyboard classical precise reading music scores professional serious","anna is a professional keyboardist with serious classical training",1,3
+"keyboard classical precise reading music scores professional serious","mark is a punk guitarist with a rebellious attitude",0,3
+"bass funk groovy great rhythm passionate energetic","david is a passionate bassist playing energetic funky grooves",1,4
+"bass funk groovy great rhythm passionate energetic","steve is a pop singer with a wide vocal range and friendly nature",0,4
+"guitar blues soulful improviser laid-back creative","jake is a laid-back blues guitarist known for soulful improvisation",1,5
+"guitar blues soulful improviser laid-back creative","lisa is a subtle jazz drummer with a serious approach",0,5
+"singer rock charismatic frontman intense passionate","anna is an intense and charismatic rock singer",1,6
+"singer rock charismatic frontman intense passionate","alan is an ambient keyboard player with a laid-back style",0,6
+"drums metal aggressive heavy hitting serious","mike is a serious metal drummer with aggressive style",1,7
+"drums metal aggressive heavy hitting serious","emma is a pop singer known for catchy, friendly tunes",0,7
+"keyboard jazz experimental creative professional","mark is a creative experimental jazz keyboardist with professionalism",1,8
+"keyboard jazz experimental creative professional","david is a classic rock bassist with a laid-back groove",0,8
+"bass reggae laid-back groove relaxed friendly reliable","steve plays laid-back reggae bass lines and is very reliable",1,9
+"bass reggae laid-back groove relaxed friendly reliable","jake is a blues guitarist known for strong improvisation and intensity",0,9
